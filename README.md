@@ -110,7 +110,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Adili Bolati**, also known as **Adil**. UQ postgraduate in Information Technology!
+Hi there! I'm **Adili Bolati**, also known as **Adil**. A UQ postgraduate in Information Technology!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
